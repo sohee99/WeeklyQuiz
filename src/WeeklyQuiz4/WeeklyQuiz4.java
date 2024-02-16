@@ -1,3 +1,5 @@
+package WeeklyQuiz4;
+
 import java.util.Scanner;
 import java.util.Stack;
 
